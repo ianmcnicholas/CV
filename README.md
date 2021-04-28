@@ -1,6 +1,6 @@
 # Ian McNicholas #
 
-[Projects](#projects) | [Skills](#skills) | [Employment](#employment) | [Education](#education) | [Out-of-hours](#out-of-hours) | [LinkedIn](https://www.linkedin.com/in/ian-mcnicholas-7a97a8175/)
+[Projects](#projects) | [Skills](#skills) | [Employment](#employment) | [Education](#education) | [Out-of-hours](#out-of-hours) | [References](#references) | [LinkedIn](https://www.linkedin.com/in/ian-mcnicholas-7a97a8175/)
 
 I am a **Junior Software Developer / Programmer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement and have experience of working in proactive and pragmatic teams.
 
@@ -77,5 +77,8 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 * **Sports and Fitness**
 * **Reading** (fantasy novels!)
 
+
+## References
+Available on request.
 
 [Back to the top](#ian-mcnicholas)

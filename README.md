@@ -4,8 +4,10 @@
 
 I am a **Junior Software Developer / Programmer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement and have experience of working in proactive and pragmatic teams.
 
-I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in Canada, and have worked in sales providing highly technical equipment to customers in Australia.  
+I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in Canada, and have worked in sales providing highly technical equipment to customers in Australia.
+
 <br>
+
 ## Projects
 
 For a complete list, see my [GitHub](https://github.com/ianmcnicholas?tab=repositories).
@@ -15,7 +17,9 @@ For a complete list, see my [GitHub](https://github.com/ianmcnicholas?tab=reposi
 | [Gilded Rose](https://github.com/ianmcnicholas/GildedRose-Ruby) | A famous tech test completed towards the end of my time a Makers Academy.  <br> Legacy code requiring an additional feature.  | Ruby, RSPEC |
 |[T'Acebook](https://github.com/ianmcnicholas/acebook-team.1)| A platform on which to make posts, and comment on the posts of others.  <br> As a team, we taught ourselves the Rails frameworks and deployed this app within a short time-frame. | Ruby, Rails, RSPEC|
 | [Grappitude](https://github.com/kasey-purvor/Grappitude) | A personal-journal mobile app developed in a team for the final project of Makers Academy. | Javascript, React Native, MongoDB, Jest |
+
 <br>
+
 ## Skills
 
 #### Planning
@@ -48,7 +52,9 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 
 **Skanska - Site Engineer** (Sep '12 - Feb '17)    
 *Crossrail - London*
+
 <br>
+
 ## Education
 
 #### Makers Academy (Jul '16 - Nov '16)
@@ -62,12 +68,16 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 - Ruby and Javascript
 
 #### University of Birmingham, 1st Class M.Eng Civil Engineering (2012)
+
 <br>
+
 ## Out of Hours
 
 * **Rock Climbing**
 * **Guitar**
 * **Sports and Fitness**
 * **Reading** (fantasy novels!)
+
 <br>
+
 [Back to the top](#ian-mcnicholas)

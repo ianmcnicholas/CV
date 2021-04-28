@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Employment](#employment) | [Education](#education) | [Out-of-hours](#out-of-hours) | [References](#references) | [LinkedIn](https://www.linkedin.com/in/ian-mcnicholas-7a97a8175/)
 
-I am a **Junior Software Developer / Programmer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement and have experience of working in proactive and pragmatic teams.
+I am a **Junior Software Developer / Programmer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement, and have experience of working in proactive and pragmatic teams.
 
 I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in Canada, and have worked in sales providing highly technical equipment to customers in Australia.
 

@@ -49,7 +49,9 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 **UPG - Technical Sales Rep** (Apr '18 - Sep '18)   
 *Trimble Dealership - Australia*
 
-**Skanska - Site Engineer** (Sep '12 - Feb '17)    
+**Overseas Travel** (Feb '16 - Apr '18)
+
+**Skanska - Site Engineer** (Sep '12 - Feb '16)    
 *Crossrail - London*
 
 

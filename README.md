@@ -69,3 +69,5 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 * **Guitar**
 * **Sports and Fitness**
 * **Reading** (fantasy novels!)
+
+[Back to the top](#ian-mcnicholas)

@@ -22,15 +22,15 @@ For a complete list, see my [GitHub](https://github.com/ianmcnicholas?tab=reposi
 
 #### Planning
 
-The majority of my employment has been in construction, where is it crucial that works are carried out in a logical and time-effective manner.  Once these works had been planned, it was also vital to track the progress and check this against the programme.
+The majority of my employment has been in construction, where it was crucial that works are carried out in a logical and time-effective manner.  Once these works had been planned, it was also vital to track the progress and check this against the programme.
 
 #### Communication
 
-All of my employment has involved working in teams, with effective communication being key to success.  For example, being able to relay to a team of construction workers the methodology required, or delivering the technical specs of surveying equipment to a customer.
+All of my employment has involved working in teams, with effective communication being key to success.  For example, being able to relay to a construction team the build methodology required, or delivering the technical specifications of surveying equipment to a customer.
 
 #### Learning
 
-I take a 'high-level' approach to learning.  By ensuring I understand the first-principles of a subject, I know that I can always iron out-the details through further study or through discussions with colleagues.  This is particularly relevant to programming as memorising syntax is less-effective than understanding what you want the code to ultimately do.
+I take a 'high-level' approach to learning.  By ensuring I understand the first-principles of a subject, I know that I can always iron-out the details through further study or through discussions with colleagues.  This is particularly relevant to programming as memorising syntax is less-effective than understanding what you want the code to ultimately do.
 
 #### Programming skills
 
@@ -40,24 +40,24 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 ## Employment
 
 **Galliford Try - Section Engineer** (Aug '20 - Jan '21)    
-*M1 smart motorways scheme - Northampton*  
+*M1 smart motorways scheme - Northampton, UK*  
 
 **Skanska - Section Engineer** (Jan '19 - Aug '20)    
-*High Speed 2 - London Euston* <br>
-*A14 Highway - Cambridgeshire*
+*High Speed 2 - London, UK* <br>
+*A14 Highway - Cambridge, UK*
 
 **UPG - Technical Sales Rep** (Apr '18 - Sep '18)   
-*Trimble Dealership - Australia*
+*Trimble Dealership - Melbourne, Australia*
 
 **Overseas Travel** (Feb '16 - Apr '18)
 
 **Skanska - Site Engineer** (Sep '12 - Feb '16)    
-*Crossrail - London*
+*Crossrail - London, UK*
 
 
 ## Education
 
-#### Makers Academy (Jul '16 - Nov '16)
+#### Makers Academy (Class of Feb '21)
 
 [A 16-week intensive development bootcamp](https://makers.tech/), focusing on :
 
@@ -65,7 +65,7 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 - Object-oriented design
 - Test driven development and behaviour driven development
 - Pair-programming
-- Ruby and Javascript
+- Ruby and Javascript and associated frameworks
 
 #### University of Birmingham, 1st Class M.Eng Civil Engineering (2012)
 

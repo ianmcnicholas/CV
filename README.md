@@ -4,7 +4,7 @@
 
 I am a **Junior Software Developer / Programmer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement, and have experience of working in proactive and pragmatic teams.
 
-I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in Canada, and have worked in sales providing highly technical equipment to customers in Australia.
+I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in Canada, and have worked in sales providing highly technical equipment to customers in Australia.  More recently I have completed the 16 week coding bootcamp with Makers Academy.
 
 
 ## Projects
@@ -32,9 +32,13 @@ All of my employment has involved working in teams, with effective communication
 
 I take a 'high-level' approach to learning.  By ensuring I understand the first-principles of a subject, I know that I can always iron-out the details through further study or through discussions with colleagues.  This is particularly relevant to programming as memorising syntax is less-effective than understanding what you want the code to ultimately do.
 
+#### Leadership
+
+As of yet, I have not held a position of seniority through work, however I am naturally an aspiring leader.  In my personal life I am frequently finding myself in leadership roles, whether it be undertaking a course to be able to effectively skipper a yacht or taking on the captaincy and coaching of my University Aussie Rules football team.  More recently, during the Makers Academy Bootcamp, I consistently took the role of the project-driving and proactive team member.
+
 #### Programming skills
 
-- Ruby (incl. Rails, RSPEC), Javascript (incl. React), TDD, Github, SQL, API's.
+- Ruby (incl. Rails, RSPEC), Javascript (incl. React), Test-Driven-Development, Github, SQL, API's.
 
 
 ## Employment
@@ -73,10 +77,9 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 ## Out of Hours
 
 * **Rock Climbing**
-* **Guitar**
 * **Sports and Fitness**
-* **Reading** (fantasy novels!)
-
+* **Reading**
+* **Guitar**
 
 ## References
 Available on request.

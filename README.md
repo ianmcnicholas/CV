@@ -40,6 +40,7 @@ As of yet, I have not held a position of seniority through work, however I am na
 #### Programming skills
 
 - Ruby (incl. Rails, RSPEC), Javascript (incl. React), Test-Driven-Development, Github, SQL, API's.
+- Mentoring 2no. students in a later cohort at Makers Academy.
 
 
 ## Employment

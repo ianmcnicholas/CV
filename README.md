@@ -2,10 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Employment](#employment) | [Education](#education) | [Out-of-hours](#out-of-hours) | [References](#references) | [LinkedIn](https://www.linkedin.com/in/ian-mcnicholas-7a97a8175/)
 
-I am a **Junior Software Developer / Programmer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement, and have experience of working in proactive and pragmatic teams.
+I am a **Software Developer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  My knowledge of software development has come through the 16-week coding bootcamp run by Makers Academy.  
 
-I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in Canada, and have worked in sales providing highly technical equipment to customers in Australia.  More recently I have completed the 16 week coding bootcamp with Makers Academy.
+I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement, and have experience of working in proactive and pragmatic teams.
 
+I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in Canada, and have worked in sales providing highly technical equipment to customers in Australia.  I  completed the Makers Academy coding bootcamp in April '21.
 
 ## Projects
 
@@ -63,7 +64,7 @@ As of yet, I have not held a position of seniority through work, however I am na
 
 #### Makers Academy (Class of Feb '21)
 
-[A 16-week intensive development bootcamp](https://makers.tech/), focusing on :
+[A coding bootcamp](https://makers.tech/), focusing on :
 
 - Agile methodologies
 - Object-oriented design

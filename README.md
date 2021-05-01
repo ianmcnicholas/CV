@@ -23,7 +23,7 @@ For a complete list, see my [GitHub](https://github.com/ianmcnicholas?tab=reposi
 
 #### Planning
 
-The majority of my employment has been in construction, where it was crucial that works are carried out in a logical and time-effective manner.  Once these works had been planned, it was also vital to track the progress and check this against the programme.
+The majority of my employment has been in construction, where it is crucial that works are carried out in a logical and time-effective manner.  Once these works had been planned, it was vital to track the progress and check this against the programme.
 
 #### Communication
 
@@ -35,7 +35,7 @@ I take a 'high-level' approach to learning.  By ensuring I understand the first-
 
 #### Leadership
 
-As of yet, I have not held a position of seniority through work, however I am naturally an aspiring leader.  In my personal life I am frequently finding myself in leadership roles, whether it be undertaking a course to be able to effectively skipper a yacht or taking on the captaincy and coaching of my University Aussie Rules football team.  More recently, during the Makers Academy Bootcamp, I consistently took the role of the project-driving and proactive team member.
+As of yet, I have not held a position of seniority through work, however I am naturally an aspiring leader.  In my personal life I am frequently finding myself in leadership roles, whether it be undertaking a course to be able to effectively skipper a yacht (day-skipper) or taking on the captaincy and coaching of my University Aussie Rules football team.  More recently, during the Makers Academy Bootcamp, I consistently took the role of the project-driving and proactive team member.
 
 #### Programming skills
 

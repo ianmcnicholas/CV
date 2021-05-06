@@ -15,7 +15,7 @@ For a complete list, see my [GitHub](https://github.com/ianmcnicholas?tab=reposi
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Gilded Rose](https://github.com/ianmcnicholas/GildedRose-Ruby) | A famous tech test completed towards the end of my time a Makers Academy.  <br> Legacy code requiring an additional feature.  | Ruby, RSPEC |
-|[T'Acebook](https://github.com/ianmcnicholas/acebook-team.1)| A platform on which to make posts, and comment on the posts of others.  <br> As a team, we taught ourselves the Rails frameworks and deployed this app within a short time-frame. | Ruby, Rails, RSPEC|
+|[T'Acebook](https://github.com/ianmcnicholas/acebook-team.1)| A platform on which to make posts, and comment on the posts of others.  <br> As a team, we taught ourselves the Rails framework and deployed this app within a short time-frame. | Ruby, Rails, RSPEC|
 | [Grappitude](https://github.com/kasey-purvor/Grappitude) | A personal-journal mobile app developed in a team for the final project of Makers Academy. | Javascript, React Native, MongoDB, Jest |
 
 

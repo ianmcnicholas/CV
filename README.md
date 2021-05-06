@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Employment](#employment) | [Education](#education) | [Out-of-hours](#out-of-hours) | [References](#references) | [LinkedIn](https://www.linkedin.com/in/ian-mcnicholas-7a97a8175/)
 
-I am a **Software Developer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  My knowledge of software development has come through the 16-week coding bootcamp run by Makers Academy.  
+I am a **Software Developer** with a background in *Civil Engineering*, *Construction* and *Technical Sales*.  My knowledge of software development has come through the 16-week coding bootcamp run by [Makers Academy](https://makers.tech/).  
 
 I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement, and have experience of working in proactive and pragmatic teams.
 

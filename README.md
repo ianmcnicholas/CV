@@ -29,7 +29,7 @@ This skill lended itself to my coding bootcamp as I was able to effectively plan
 
 #### Communication
 
-All of my employment has involved working in teams, with effective communication being key to success.  For example, being able to relay to a construction team the build methodology required, or delivering the technical specifications of surveying equipment to a customer.
+All of my employment has involved working in teams, with effective communication being key to success.  For example, being able to relay to a construction team the build methodology required, or delivering the technical specifications of surveying equipment to a customer.  
 When it comes to programming, I am considered to be a strong communicator due to my ability to take a colleague through my code, confidently ask questions and relay my ideas to a group.
 
 #### Learning

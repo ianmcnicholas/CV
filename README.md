@@ -20,30 +20,31 @@ For a complete list, see my [GitHub](https://github.com/ianmcnicholas?tab=reposi
 | [Bank](https://github.com/ianmcnicholas/bank_tech_test) | A showcase tech test. | Ruby, RSPEC |
 
 
-
-
-
 ## Skills
 
 #### Planning
 
-The majority of my employment has been in construction, where it is crucial that works are carried out in a logical and time-effective manner.  Once these works had been planned, it was vital to track the progress and check this against the programme.
+The majority of my employment has been in construction, where it is crucial that works are carried out in a logical and time-effective manner.  Once these works had been planned, it was vital to track the progress and check this against the programme.  
+This skill lended itself to my coding bootcamp as I was able to effectively plan and sequence my projects in a logical manner, consistently coming back to the plan throughout the work to check on the progress and replan as required.
 
 #### Communication
 
 All of my employment has involved working in teams, with effective communication being key to success.  For example, being able to relay to a construction team the build methodology required, or delivering the technical specifications of surveying equipment to a customer.
+When it comes to programming, I am considered to be a strong communicator due to my ability to take a colleague through my code, confidently ask questions and relay my ideas to a group.
 
 #### Learning
 
-I take a 'high-level' approach to learning.  By ensuring I understand the first-principles of a subject, I know that I can always iron-out the details through further study or through discussions with colleagues.  This is particularly relevant to programming as memorising syntax is less-effective than understanding what you want the code to ultimately do.
+I take a 'high-level' approach to learning.  By ensuring I understand the first-principles of a subject, I know that I can always iron-out the details through further study or through discussions with colleagues.  
+This is particularly relevant to programming as memorising syntax is less-effective than understanding what you want the code to ultimately do.  It also allows me to receive, progress and act upon guidance and feedback on my work.
 
 #### Leadership
 
-As of yet, I have not held a position of seniority through work, however I am naturally an aspiring leader.  In my personal life I am frequently finding myself in leadership roles, whether it be undertaking a course to be able to effectively skipper a yacht (day-skipper) or taking on the captaincy and coaching of my University Aussie Rules football team.  More recently, during the Makers Academy Bootcamp, I consistently took the role of the project-driving and proactive team member.
+As of yet, I have not held a position of seniority through work, however I am naturally an aspiring leader.  In my personal life I am frequently finding myself in leadership roles, whether it be undertaking a course to be able to effectively skipper a yacht (day-skipper) or taking on the captaincy and coaching of my University Aussie Rules football team.  
+More recently, during the Makers Academy Bootcamp, I consistently took the role of the project-driving and proactive team member.  This lead to project tickets being assigned appropriately and group members being included with requests for their thoughts on the work.
 
 #### Programming skills
 
-- Ruby (incl. Rails, RSPEC), Javascript (incl. React), Test-Driven-Development, Github, SQL, API's.
+- Ruby (incl. Rails, RSPEC), Javascript (incl. React), Test-Driven-Development, Github, PostgreSQL, MongoDB, API's.
 - Mentoring 2no. students in a later cohort at Makers Academy.
 
 
@@ -51,18 +52,28 @@ As of yet, I have not held a position of seniority through work, however I am na
 
 **Galliford Try - Section Engineer** (Aug '20 - Jan '21)    
 *M1 smart motorways scheme - Northampton, UK*  
+- Planning and tracking progress of works on site
+- Assessing quality of constructed items
+
 
 **Skanska - Section Engineer** (Jan '19 - Aug '20)    
 *High Speed 2 - London, UK* <br>
 *A14 Highway - Cambridge, UK*
+- Setting out to specified tolerances
+- Relaying method statements and risk assessments to site staff
 
 **UPG - Technical Sales Rep** (Apr '18 - Sep '18)   
 *Trimble Dealership - Melbourne, Australia*
+- Building and maintaining customer relationships
+- Providing technical equipment to surveying companies
 
 **Overseas Travel** (Feb '16 - Apr '18)
 
 **Skanska - Site Engineer** (Sep '12 - Feb '16)    
 *Crossrail - London, UK*
+- Monitoring Health and Safety on site
+- Checking site drawings against buildability
+
 
 
 ## Education
@@ -74,6 +85,7 @@ As of yet, I have not held a position of seniority through work, however I am na
 - Agile methodologies
 - Object-oriented design
 - Test driven development and behaviour driven development
+- Encapsulation, Single Responsibility Principle, Dependency Injection, DRY code
 - Pair-programming
 - Ruby and Javascript and associated frameworks
 

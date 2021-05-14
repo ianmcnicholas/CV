@@ -6,7 +6,7 @@ I am a **Software Developer** with a background in *Civil Engineering*, *Constru
 
 I am looking for a role where I can consolidate and extend my programming knowledge, and work in a team to produce high-quality technical products.  I consider myself to be open about areas of strength and those requiring improvement, and have experience of working in proactive and pragmatic teams.
 
-I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in Canada, and have worked in sales providing highly technical equipment to customers in Australia.  I  completed the Makers Academy coding bootcamp in April '21.
+I graduated with a *1st Class Masters Degree in Civil Engineering* and started my professional career as an engineer on a construction project in London.  Since then I have worked on several engineering projects, spent time exploring mountainous regions overseas in [Canada](https://user-images.githubusercontent.com/75983723/118271973-ddea4780-b4b9-11eb-8947-5f6108b716d7.jpeg), and have worked in sales providing highly technical equipment to customers in Australia.  I  completed the Makers Academy coding bootcamp in April '21.
 
 ## Projects
 

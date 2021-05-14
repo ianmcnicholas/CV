@@ -39,7 +39,7 @@ This is particularly relevant to programming as memorising syntax is less-effect
 
 #### Leadership
 
-As of yet, I have not held a position of seniority through work, however I am naturally an aspiring leader.  In my personal life I am frequently finding myself in leadership roles, whether it be undertaking a course to be able to effectively skipper a yacht (day-skipper) or taking on the captaincy and coaching of my University Aussie Rules football team.  
+As of yet, I have not held a position of seniority through work, however I am naturally an aspiring leader.  In my personal life I am frequently finding myself in leadership roles, whether it be undertaking a course to be able to effectively skipper a yacht (day-skipper) or taking on the captaincy and coaching of my University Aussie Rules football team.  I was also the Project Manager for [this construction project](https://user-images.githubusercontent.com/75983723/118269844-1d636480-b4b7-11eb-9ef1-7033c0a85b42.jpeg).
 More recently, during the Makers Academy Bootcamp, I consistently took the role of the project-driving and proactive team member.  This lead to project tickets being assigned appropriately and group members being included with requests for their thoughts on the work.
 
 #### Programming skills

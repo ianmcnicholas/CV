@@ -44,11 +44,16 @@ More recently, during the Makers Academy Bootcamp, I consistently took the role 
 
 #### Programming skills
 
-- Ruby (incl. Rails, RSPEC), Javascript (incl. React), Test-Driven-Development, Github, PostgreSQL, MongoDB, API's.
-- Mentoring 2no. students in a later cohort at Makers Academy.
+- Java, Spring, Test-Driven-Development, MicroServices
 
 
 ## Employment
+
+**Makers Academy - Software Developer** (Sept '21 - present)    
+*Capgemini HMRC Government Contract*  
+- Development of microservices
+- Build a reusable repo for consistent error handling and logging through the project's API's.
+
 
 **Galliford Try - Section Engineer** (Aug '20 - Jan '21)    
 *M1 smart motorways scheme - Northampton, UK*  
@@ -79,15 +84,6 @@ More recently, during the Makers Academy Bootcamp, I consistently took the role 
 ## Education
 
 #### Makers Academy (Class of Feb '21)
-
-[A coding bootcamp](https://makers.tech/), focusing on :
-
-- Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
-- Encapsulation, Single Responsibility Principle, Dependency Injection, DRY code
-- Pair-programming
-- Ruby and Javascript and associated frameworks
 
 #### University of Birmingham, 1st Class M.Eng Civil Engineering (2012)
 

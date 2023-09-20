@@ -78,9 +78,7 @@ More recently, during the Makers Academy Bootcamp, I consistently took the role 
 
 #### Makers Academy (Apr '21)
 
-#### University of Birmingham, 1st Class M.Eng Civil Engineering (2012)
-<br><br>
-
+#### University of Birmingham, 1st Class M.Eng Civil Engineering (2012)<br><br>
 ## Out of Hours
 
 * **Rock Climbing & Mountaineering**

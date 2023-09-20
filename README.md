@@ -9,27 +9,27 @@ A **Software Developer** with 2 years of experience in the technology industry, 
 **Capgemini - Software Developer** (Nov '22 - present)
 *HMRC Government Contract*  
 - Development and maintenance of microservices using Java, Springboot and Scala.
-- Working in an Agile team in 2-weekly sprints.
+- Working in an Agile team in 2-weekly sprints. <br>
 
 **Makers Academy - Software Developer** (Sep '21 - present)    
 *Capgemini HMRC Government Contract*  
-- Development of microservices using Java and Springboot.
+- Development of microservices using Java and Springboot.<br>
 
 **Galliford Try - Section Engineer** (Aug '20 - Jan '21)    
 *M1 smart motorways scheme - Northampton, UK*  
 - Planning and tracking progress of works on site
-- Assessing quality of constructed items
+- Assessing quality of constructed items<br>
 
 **Skanska - Section Engineer** (Jan '19 - Aug '20)    
 *High Speed 2 - London, UK* <br>
 *A14 Highway - Cambridge, UK*
 - Setting out to specified tolerances
-- Relaying method statements and risk assessments to site staff
+- Relaying method statements and risk assessments to site staff<br>
 
 **UPG - Technical Sales Rep** (Apr '18 - Sep '18)   
 *Trimble Dealership - Melbourne, Australia*
 - Building and maintaining customer relationships
-- Providing technical equipment to surveying companies
+- Providing technical equipment to surveying companies<br>
 
 **Overseas Travel** (Feb '16 - Apr '18)
 

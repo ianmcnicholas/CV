@@ -6,7 +6,7 @@ A **Software Developer** with 2 years of experience in the technology industry, 
 
 ## Employment
 
-**Capgemini - Software Developer** (Nov '22 - present)<bR>
+**Capgemini - Software Developer** (Nov '22 - present)<br>
 *HMRC Government Contract*  
 - Development and maintenance of microservices using Java, Springboot and Scala.
 - Working in an Agile team in 2-weekly sprints. <br><br>

@@ -51,7 +51,7 @@ A **Software Developer** with 2 years of experience in the technology industry, 
 #### Planning
 
 The majority of my employment has been in construction, where it is crucial that works are carried out in a logical and time-effective manner.  Once these works had been planned, it was vital to track the progress and check this against the programme.  
-This skill lent itself to my coding bootcamp as I was able to effectively plan and sequence my projects in a logical manner, consistently coming back to the plan throughout the work to check on the progress and replan as required.
+This skill lent itself to software development as I am able to effectively plan and sequence my tickets in a logical manner, consistently coming back to the plan throughout the work to check on the progress and replan as required.
 
 #### Communication
 
@@ -66,7 +66,8 @@ This is particularly relevant to programming as memorising syntax is less-effect
 #### Leadership
 
 As of yet, I have not held a position of seniority through work, however I am naturally an aspiring leader.  In my personal life I am frequently finding myself in leadership roles, whether it be undertaking a course to be able to effectively skipper a yacht (day-skipper) or taking on the captaincy and coaching of my University Aussie Rules football team.  I was also the Project Manager for [this construction project](https://user-images.githubusercontent.com/75983723/118269844-1d636480-b4b7-11eb-9ef1-7033c0a85b42.jpeg).  
-More recently, during the Makers Academy Bootcamp, I consistently took the role of the project-driving and proactive team member.  This lead to project tickets being assigned appropriately and group members being included with requests for their thoughts on the work.
+During the Makers Academy Bootcamp, I consistently took the role of the project-driving and proactive team member.  This lead to project tickets being assigned appropriately and group members being included with requests for their thoughts on the work.
+More recently in my personal life, I undertake frequent mountain excursions which require meticulous planning of climbing routes and back-up options.  These expeditions also require the ability to pivot swiftly should plans go awry.
 <br><br>
 ## Programming skills
 

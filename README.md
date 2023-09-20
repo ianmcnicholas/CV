@@ -88,5 +88,6 @@ More recently, during the Makers Academy Bootcamp, I consistently took the role 
 <br><br>
 ## References
 Available on request.
+
 <br><br>
 [Back to the top](#ian-mcnicholas)

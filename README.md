@@ -36,7 +36,7 @@ A **Software Developer** with 2 years of experience in the technology industry, 
 **Skanska - Site Engineer** (Sep '12 - Feb '16)    
 *Crossrail - London, UK*
 - Monitoring Health and Safety on site
-- Checking site drawings against buildability
+- Checking site drawings against buildability<br><br>
 
 
 ## Certifications

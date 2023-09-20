@@ -41,8 +41,8 @@ A **Software Developer** with 2 years of experience in the technology industry, 
 
 ## Certifications
 
-**CKAD Certified Kubernetes Application Developer** - June 2023
-**AWS Certified Cloud Practitioner** - July 2023
+**CKAD Certified Kubernetes Application Developer** - June 2023 <br>
+**AWS Certified Cloud Practitioner** - July 2023 <br>
 **ISTQB Certified Tester, Foundation Level** - August 2023
 
 
@@ -73,7 +73,7 @@ More recently, during the Makers Academy Bootcamp, I consistently took the role 
 - Java, Springboot
 - Scala
 - Kubernetes
-- 
+  
 ## Education
 
 #### Makers Academy (Apr '21)

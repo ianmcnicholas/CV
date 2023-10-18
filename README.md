@@ -1,6 +1,6 @@
 # Ian McNicholas #
 
-[Employment](#employment) | [Certifications](#certifications) | [Skills](#skills) | [Education](#education) | [Out-of-hours](#out-of-hours) | [References](#references) | [LinkedIn](https://www.linkedin.com/in/ian-mcnicholas-7a97a8175/)
+[Employment](#employment) | [Certifications](#certifications) | [Skills](#skills) | [Education](#education) | [Out-of-hours](#out-of-hours) | [References](#references) | [LinkedIn](https://www.linkedin.com/in/ian-m-7a97a8175/)
 
 A **Software Developer** with 2 years of experience in the technology industry, and 5+ years of experience as a *Civil Engineer* in the construction industry, Ian has experience working pragmatically in teams in pressured environments, and entered the world of technology having completed an online 16-week coding bootcamp. Ian is upfront regarding areas of strength, and those requiring improvement, and aspires to eventually lead a team creating high quality technical products.
 
